@@ -1,0 +1,4 @@
+Файл	Шум	PSNR(размытое)	SSIM(размытое)	PSNR(восст.)	SSIM(восст.)	delta_ssim	delta_psnr
+house_frt4_noise0.05.pt	0.05	13.37	0.1435	22.08	0.50	0.36	8.71
+house_frt4_noise0.01.pt	0.01	13.60	0.3564	22.76	0.62	0.26	9.16
+house_frt4_noise0.1.pt	0.1	12.74	0.0546	20.53	0.36	0.30	7.79

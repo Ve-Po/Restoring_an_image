@@ -1,0 +1,2 @@
+Файл	Шум	PSNR(размытое)	SSIM(размытое)	PSNR(восст.)	SSIM(восст.)	delta_ssim	delta_psnr
+ruler.512_frt2_noise0.01.pt	0.01	10.00	0.0028	10.76	0.28	0.28	0.77
